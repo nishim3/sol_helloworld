@@ -1,2 +1,2 @@
-'''yarn'''
-'''node index.ts'''
+```yarn```
+```node index.ts```
