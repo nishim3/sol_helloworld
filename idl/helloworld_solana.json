@@ -1,0 +1,26 @@
+{
+  "address": "AE6cRUZWLn8oiVHQZKMZFDAZcBGbx9F8rz6FcUQKHDFn",
+  "metadata": {
+    "name": "helloworld_solana",
+    "version": "0.1.0",
+    "spec": "0.1.0",
+    "description": "Created with Anchor"
+  },
+  "instructions": [
+    {
+      "name": "initialize",
+      "discriminator": [
+        175,
+        175,
+        109,
+        31,
+        13,
+        152,
+        155,
+        237
+      ],
+      "accounts": [],
+      "args": []
+    }
+  ]
+}
